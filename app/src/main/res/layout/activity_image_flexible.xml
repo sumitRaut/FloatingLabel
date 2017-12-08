@@ -58,7 +58,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Name"
-                    android:padding="5dp"
+                    android:padding="10dp"
                     android:inputType="textPersonName" />
             </android.support.design.widget.TextInputLayout>
 
